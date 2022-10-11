@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Module6Project</string>
+    <string name="amount">Input USD: </string>
+    <string name="currency">Currencies: </string>
+    <string name="outputText">Output Amount:</string>
+    <string-array name="currency_array">
+        <item>CAD</item>
+        <item>GBP</item>
+        <item>MXN</item>
+        <item>EUR</item>
+        <item>CNY</item>
+        <item>AUD</item>
+    </string-array>
+    <string name="calculate">Calculate</string>
+    <string name="calculateButton">Calculate</string>
+</resources>
